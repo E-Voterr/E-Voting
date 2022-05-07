@@ -11,7 +11,7 @@ const Footer = () => (
           View this project on{" "}
           <a
             className="profile"
-            href="https://github.com/arlbibek/dVoting"
+            href="https://github.com/E-Voterr/E-Voting"
             target="_blank"
             rel="noopener noreferrer"
           >
